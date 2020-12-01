@@ -52,6 +52,12 @@ Go to \ahref{http://web.archive.org/web/20180225115649/http://www.google.com/}{w
 
 ## How to call
 
+### Standalone
 ```
 ruby eternalize_urls.rb file
+```
+
+### Docker
+```
+./run.sh absolute/path/file
 ```
