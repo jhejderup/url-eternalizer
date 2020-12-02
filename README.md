@@ -61,3 +61,4 @@ ruby eternalize_urls.rb file
 ```
 ./run.sh absolute/path/file
 ```
+The converted text should appear in `absolute/path/file.eternal`
